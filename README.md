@@ -18,7 +18,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard Argon PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-argon-pro-intro.gif)
+![Flask Dashboard Argon PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-argon-pro-screen.png)
 
 <br />
 
@@ -36,7 +36,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard Black PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-intro.gif)
+![Flask Dashboard Black PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-screen.png)
 
 <br />
 
@@ -54,7 +54,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard Material PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-intro.gif)
+![Flask Dashboard Material PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-screen.png)
 
 <br />
 
@@ -72,7 +72,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard NowUI PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-now-ui-pro-intro.gif)
+![Flask Dashboard NowUI PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-now-ui-pro-screen.png)
 
 <br />
 
@@ -90,7 +90,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard Paper PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-paper-pro-intro.gif)
+![Flask Dashboard Paper PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-paper-pro-screen.png)
 
 <br />
 
@@ -108,7 +108,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard Light PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-light-pro-intro.gif)
+![Flask Dashboard Light PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-light-pro-screen.png)
 
 <br />
 
