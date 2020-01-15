@@ -1,6 +1,21 @@
 # [PRO Flask Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro) 
 
-Speed up your development with **Premium UI Kits** coded in **Flask** Framework. **Common features**: authentication, database, ORM, helpers, clean code-base and deployment scripts - **24/7 LIVE support** included (via [Discord](https://discord.gg/fZC6hup)).
+Speed up your development with **Premium UI Kits** coded in **Flask** Framework. **Common features**: 
+ - Authentication, 
+ - Database, ORM, helpers 
+ - Clean code-base and deployment scripts 
+ - **24/7 LIVE support** included (via [Discord](https://discord.gg/fZC6hup))
+
+<br />
+
+## About this bundle
+
+> All web apps presented on this page (free & paid) are generated with **automation devTools** by the [AppSeed](https://appseed.us/) platform. Curious minds may read more about this new concept by accessing:  
+
+- [How I’ve built 100+ open-source apps with automation tools](https://dev.to/sm0ke/100-open-source-apps-built-with-automation-tools-3jmj)
+- [Admin Dashboards - 20 Open-Source Admin Panels built with automation tools](https://dev.to/sm0ke/admin-dashboards-20-open-source-admin-panels-built-with-automation-tools-ckb)
+- [Open-Source Web Apps - Grouped by UI Kits](https://dev.to/sm0ke/open-source-web-apps-grouped-by-ui-kits-389g)
+- [Dark Admin Dashboards - Open-Source and Free](https://dev.to/sm0ke/dark-admin-dashboards-open-source-and-free-2me9)
 
 <br />
 
@@ -18,7 +33,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard Dashkit Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-dashkit-pro-intro.gif)
+![Flask Dashboard Dashkit Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-dashkit-pro-screen.png)
 
 <br />
 
