@@ -1,16 +1,18 @@
 # [PRO Flask Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro) 
 
 Speed up your development with **Premium UI Kits** coded in **Flask** Framework. **Common features**: 
- - Authentication, 
- - Database, ORM, helpers 
- - Clean code-base and deployment scripts 
- - **24/7 LIVE support** included (via [Discord](https://discord.gg/fZC6hup))
+
+- Clean code-base, Blueprints
+- Session-Based Authentication Flow (Login, Register) 
+- SQLite, PostgreSQL DBMS, ORM, helpers 
+- Deployment scripts (Gunicorn, Docker) 
+- **24/7 LIVE support** included (via [Discord](https://discord.gg/fZC6hup))
 
 <br />
 
 ## About this bundle
 
-> All web apps presented on this page (free & paid) are generated with **automation devTools** by the [AppSeed](https://appseed.us/) platform. Curious minds may read more about this new concept by accessing:  
+> All web apps presented on this page are generated with **automation devTools** by the [AppSeed](https://appseed.us/) platform. Curious minds may read more about this new concept by accessing:  
 
 - [How I’ve built 100+ open-source apps with automation tools](https://dev.to/sm0ke/100-open-source-apps-built-with-automation-tools-3jmj)
 - [Admin Dashboards - 20 Open-Source Admin Panels built with automation tools](https://dev.to/sm0ke/admin-dashboards-20-open-source-admin-panels-built-with-automation-tools-ckb)
@@ -33,7 +35,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard Dashkit Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-dashkit-pro-screen.png)
+![Flask Dashboard Dashkit Pro - Admin Panel coded in Flask Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-dashkit-pro-screen.png)
 
 <br />
 
@@ -51,7 +53,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard Argon PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-argon-pro-screen.png)
+![Flask Dashboard Argon PRO - Admin Panel coded in Flask Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-argon-pro-screen.png)
 
 <br />
 
@@ -69,7 +71,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard Black PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-screen.png)
+![Flask Dashboard Black PRO - Admin Panel coded in Flask Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-screen.png)
 
 <br />
 
@@ -87,7 +89,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard Material PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-screen.png)
+![Flask Dashboard Material PRO - Admin Panel coded in Flask Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-screen.png)
 
 <br />
 
@@ -105,7 +107,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard NowUI PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-now-ui-pro-screen.png)
+![Flask Dashboard NowUI PRO - Admin Panel coded in Flask Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-now-ui-pro-screen.png)
 
 <br />
 
@@ -123,7 +125,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard Paper PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-paper-pro-screen.png)
+![Flask Dashboard Paper PRO - Admin Panel coded in Flask Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-paper-pro-screen.png)
 
 <br />
 
@@ -141,9 +143,9 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard Light PRO - Fully-Coded Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-light-pro-screen.png)
+![Flask Dashboard Light PRO - Admin Panel coded in Flask Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-light-pro-screen.png)
 
 <br />
 
 --- 
-**[PRO Flask Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro)** provided by **AppSeed**
+**[PRO Flask Admin Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro)** provided by **AppSeed**
