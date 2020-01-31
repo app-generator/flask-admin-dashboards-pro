@@ -39,6 +39,24 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
+## [Flask Dashboard Atlantis Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro)
+
+**Commercial product** - Flask **Dashboard** coded on top of **Atlantis Dark PRO** crafted by ThemeKita. **Features**:
+
+- SQLite, PostgreSQL
+- SQLAlchemy ORM, Alembic (for db schema migration)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn
+- **24/7 LIVE Support**
+
+<br />
+
+![Flask Dashboard Atlantis Dark PRO - Admin Panel coded in Flask Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-atlantis-dark-pro-screen.png)
+
+<br />
+
 ## [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
 
 **Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)** coded on top of **Argon Dashboard PRO** design. **Features**:
