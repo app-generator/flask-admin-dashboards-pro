@@ -21,7 +21,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-## [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - [LIVE Demo](https://flask-dashboard-back-pro.appseed.us/)
+## [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - [LIVE Demo](https://flask-dashboard-black-pro.appseed.us/)
 
 **Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** coded on top of **Black Dashboard PRO** design. **Features**:
 
