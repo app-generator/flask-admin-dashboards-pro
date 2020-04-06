@@ -105,7 +105,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask Dashboard StarAdmin Boxed PRO - Admin Panel coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-staradmin-dark-pro/flask-dashboard-staradmin-boxed-pro-screen.png)
+![Flask Dashboard StarAdmin Boxed PRO - Admin Panel coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-staradmin-boxed-pro/flask-dashboard-staradmin-boxed-pro-screen.png)
 
 <br />
 
