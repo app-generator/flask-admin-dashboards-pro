@@ -39,6 +39,24 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
+## [Flask Dashboard StarAdmin PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-pro) - [LIVE Demo](https://flask-dashboard-staradmin-pro.appseed.us/)
+
+**Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-pro)** coded on top of **StarAdmin  PRO** design. **Features**:
+
+- SQLite, PostgreSQL
+- SQLAlchemy ORM, Alembic (for db schema migration)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**), Forms validation
+- **Deployment scripts**: Docker, Gunicorn / Nginx, Waitress
+- FREE updates and **24/7 Live support** via [Discord](https://discord.gg/fZC6hup)
+- [Commercial License](./LICENSE.md)
+
+<br />
+
+![Flask Dashboard StarAdmin PRO - Admin Panel coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-staradmin-pro/flask-dashboard-staradmin-pro-screen.png)
+
+<br />
+
 ## [Flask Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) - [LIVE Demo](https://flask-dashboard-dashkit-pro.appseed.us/)
 
 **[Commercial Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro)** coded in **Flask Framework** on top of **Dashkit Dashboard PRO** design. **Features**:
@@ -54,6 +72,40 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 <br />
 
 ![Flask Dashboard Dashkit Pro - Admin Panel coded in Flask Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-dashkit-pro-screen.png)
+
+<br />
+
+## [Flask Dashboard StarAdmin Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro) - [LIVE Demo](https://flask-dashboard-staradmin-black-pro.appseed.us/)
+
+**Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro)** coded on top of **StarAdmin Black PRO** design. **Features**:
+
+- SQLite, PostgreSQL
+- SQLAlchemy ORM, Alembic (for db schema migration)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**), Forms validation
+- **Deployment scripts**: Docker, Gunicorn / Nginx, Waitress
+- FREE updates and **24/7 Live support** via [Discord](https://discord.gg/fZC6hup)
+
+<br />
+
+![Flask Dashboard StarAdmin Black PRO - Admin Panel coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-staradmin-black-pro/flask-dashboard-staradmin-black-pro-screen.png)
+
+<br />
+
+## [Flask Dashboard StarAdmin Boxed PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-boxed-pro) - [LIVE Demo](https://flask-dashboard-staradmin-boxed-pro.appseed.us/)
+
+**Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-boxed-pro)** coded on top of **StarAdmin PRO** design. **Features**:
+
+- SQLite, PostgreSQL
+- SQLAlchemy ORM, Alembic (for db schema migration)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**), Forms validation
+- **Deployment scripts**: Docker, Gunicorn / Nginx, Waitress
+- FREE updates and **24/7 Live support** via [Discord](https://discord.gg/fZC6hup)
+
+<br />
+
+![Flask Dashboard StarAdmin Boxed PRO - Admin Panel coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-staradmin-dark-pro/flask-dashboard-staradmin-boxed-pro-screen.png)
 
 <br />
 
