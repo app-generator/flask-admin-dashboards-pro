@@ -53,7 +53,7 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
-![Flask DattaAble Dark PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable-dark-pro/flask-dashboard-dattaable-pro-screen.png)
+![Flask DattaAble Dark PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable-pro/flask-dashboard-dattaable-pro-screen.png)
 
 <br />
 
