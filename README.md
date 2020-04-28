@@ -21,6 +21,42 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
+## [Flask DattaAble Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro) - [LIVE Demo](https://flask-dashboard-dattaable-dark-pro.appseed.us/)
+
+**Commercial product** - Flask **Dashboard** coded on top of **DattaAble Dark PRO** crafted by CodedThemes. **Features**:
+
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- UI Kit: [Datta Able PRO](https://codedthemes.com/item/datta-able-bootstrap-admin-template/) provided by **CodedThemes**
+
+<br />
+
+![Flask DattaAble Dark PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable-dark-pro/flask-dashboard-dattaable-dark-pro-screen.png)
+
+<br />
+
+## [Flask Admin DattaAble PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) - [LIVE Demo](https://flask-dashboard-dattaable-pro.appseed.us/)
+
+**Commercial product** - Flask **Dashboard** coded on top of **DattaAble PRO** crafted by CodedThemes. **Features**:
+
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- UI Kit: [Datta Able PRO](https://codedthemes.com/item/datta-able-bootstrap-admin-template/) provided by **CodedThemes**
+
+<br />
+
+![Flask DattaAble Dark PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable-dark-pro/flask-dashboard-dattaable-pro-screen.png)
+
+<br />
+
 ## [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - [LIVE Demo](https://flask-dashboard-black-pro.appseed.us/)
 
 **Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** coded on top of **Black Dashboard PRO** design. **Features**:
