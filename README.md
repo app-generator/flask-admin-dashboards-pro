@@ -39,6 +39,24 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 
 <br />
 
+## [Flask Dashboard Azia PRO](https://appseed.us/admin-dashboards/flask-dashboard-azia-pro) - [LIVE Demo](https://flask-dashboard-azia-pro.appseed.us/)
+
+**Commercial product** - Flask **Dashboard** coded on top of **Azia Dashboard PRO** crafted by Bootstrapdash. **Features**:
+
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- UI Kit: [Azia Dashboard PRO](https://www.bootstrapdash.com/product/azia-admin/?ref=23) provided by **Bootstrapdash**
+
+<br />
+
+![Flask Dashboard Azia PRO - Open-Source template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-azia-pro/master/media/flask-dashboard-azia-pro-screen.png)
+
+<br />
+
 ## [Flask Admin DattaAble PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) - [LIVE Demo](https://flask-dashboard-dattaable-pro.appseed.us/)
 
 **Commercial product** - Flask **Dashboard** coded on top of **DattaAble PRO** crafted by CodedThemes. **Features**:
