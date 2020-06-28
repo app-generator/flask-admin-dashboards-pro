@@ -1,12 +1,16 @@
-# [PRO Flask Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro) 
+# Premium [Flask Dashboards](https://appseed.us/admin-dashboards/flask) 
 
-Speed up your development with **Premium UI Kits** coded in **Flask** Framework. **Common features**: 
+> Commercial products - **Flask Admin Dashboards** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features: 
 
-- Clean code-base, Blueprints
-- Session-Based Authentication Flow (Login, Register) 
-- SQLite, PostgreSQL DBMS, ORM, helpers 
-- **Deployment scripts**: Docker, Gunicorn / Nginx, Waitress
-- **24/7 LIVE support** included (via [Discord](https://discord.gg/fZC6hup))
+- Premium UI Kits - actively supported by [AppSeed partners](https://appseed.us/partners)
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
+- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
@@ -18,6 +22,27 @@ Speed up your development with **Premium UI Kits** coded in **Flask** Framework.
 - [Admin Dashboards - 20 Open-Source Admin Panels built with automation tools](https://dev.to/sm0ke/admin-dashboards-20-open-source-admin-panels-built-with-automation-tools-ckb)
 - [Open-Source Web Apps - Grouped by UI Kits](https://dev.to/sm0ke/open-source-web-apps-grouped-by-ui-kits-389g)
 - [Dark Admin Dashboards - Open-Source and Free](https://dev.to/sm0ke/dark-admin-dashboards-open-source-and-free-2me9)
+
+<br />
+
+## [Flask Material Dashboard PRO (WrapPixel)](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro) - [LIVE Demo](https://flask-material-dashboard-wpx-pro.appseed.us/)
+
+> Commercial product - **Flask Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
+
+- UI Kit: **MaterialPro Dashboard** (Premium Version) by **WrapPixel**
+- Jinja2 Theme: [Jinja2 Material Dashboard PRO Wpx](https://github.com/app-generator/jinja2-material-dashboard-wpx-pro)
+- SQLite, PostgreSQL, SQLAlchemy ORM
+- Alembic (DB schema migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
+- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+![Flask Material Dashboard PRO (WrapPixel) - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-material-dashboard-wpx-pro/master/media/flask-material-dashboard-wpx-pro-screen.png)
 
 <br />
 
@@ -307,4 +332,4 @@ In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboa
 <br />
 
 --- 
-**[PRO Flask Admin Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro)** provided by **AppSeed**
+Premium [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
