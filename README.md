@@ -25,7 +25,7 @@
 
 <br />
 
-## [Flask Material Dashboard PRO (WrapPixel)](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro) - [LIVE Demo](https://flask-material-dashboard-wpx-pro.appseed.us/)
+## [Flask Dashboard - Material PRO (WrapPixel)](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro)
 
 > Commercial product - **Flask Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -46,9 +46,9 @@
 
 <br />
 
-## [Flask DattaAble Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro) - [LIVE Demo](https://flask-dashboard-dattaable-dark-pro.appseed.us/)
+## [Flask Dashboard - DattaAble Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro)
 
-**Commercial product** - Flask **Dashboard** coded on top of **DattaAble Dark PRO** crafted by CodedThemes. **Features**:
+> Commercial product - Flask **Dashboard** coded on top of **DattaAble Dark PRO** crafted by CodedThemes. **Features**:
 
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
@@ -64,9 +64,9 @@
 
 <br />
 
-## [Flask Dashboard Azia PRO](https://appseed.us/admin-dashboards/flask-dashboard-azia-pro) - [LIVE Demo](https://flask-dashboard-azia-pro.appseed.us/)
+## [Flask Dashboard - Azia PRO](https://appseed.us/admin-dashboards/flask-dashboard-azia-pro)
 
-**Commercial product** - Flask **Dashboard** coded on top of **Azia Dashboard PRO** crafted by Bootstrapdash. **Features**:
+> Commercial product - Flask **Dashboard** coded on top of **Azia Dashboard PRO** crafted by Bootstrapdash. **Features**:
 
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
@@ -82,9 +82,9 @@
 
 <br />
 
-## [Flask Admin DattaAble PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) - [LIVE Demo](https://flask-dashboard-dattaable-pro.appseed.us/)
+## [Flask Dashboard - DattaAble PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro)
 
-**Commercial product** - Flask **Dashboard** coded on top of **DattaAble PRO** crafted by CodedThemes. **Features**:
+> Commercial product - Flask **Dashboard** coded on top of **DattaAble PRO** crafted by CodedThemes. **Features**:
 
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
@@ -100,9 +100,9 @@
 
 <br />
 
-## [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - [LIVE Demo](https://flask-dashboard-black-pro.appseed.us/)
+## [Flask Dashboard - Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) 
 
-**Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** coded on top of **Black Dashboard PRO** design. **Features**:
+> Commercial Flask Admin Dashboard coded on top of **Black Dashboard PRO** design. **Features**:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
@@ -118,9 +118,9 @@
 
 <br />
 
-## [Flask Dashboard StarAdmin PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-pro) - [LIVE Demo](https://flask-dashboard-staradmin-pro.appseed.us/)
+## [Flask Dashboard - Star Admin PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-pro)
 
-**Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-pro)** coded on top of **StarAdmin  PRO** design. **Features**:
+> Commercial Flask Admin Dashboard coded on top of **Star Admin PRO** design - Features:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
@@ -136,9 +136,9 @@
 
 <br />
 
-## [Flask Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) - [LIVE Demo](https://flask-dashboard-dashkit-pro.appseed.us/)
+## [Flask Dashboard - Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro)
 
-**[Commercial Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro)** coded in **Flask Framework** on top of **Dashkit Dashboard PRO** design. **Features**:
+> Commercial Flask Admin Dashboard coded on top of **Dashkit PRO** design - Features:
 
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
@@ -154,9 +154,9 @@
 
 <br />
 
-## [Flask Dashboard StarAdmin Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro) - [LIVE Demo](https://flask-dashboard-staradmin-black-pro.appseed.us/)
+## [Flask Dashboard - StarAdmin Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro)
 
-**Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro)** coded on top of **StarAdmin Black PRO** design. **Features**:
+> Commercial Flask Admin Dashboard coded on top of **Star Admin Black PRO** design - Features:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
@@ -171,9 +171,9 @@
 
 <br />
 
-## [Flask Dashboard StarAdmin Boxed PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-boxed-pro) - [LIVE Demo](https://flask-dashboard-staradmin-boxed-pro.appseed.us/)
+## [Flask Dashboard - StarAdmin Boxed PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-boxed-pro)
 
-**Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-boxed-pro)** coded on top of **StarAdmin PRO** design. **Features**:
+> Commercial Flask Admin Dashboard coded on top of **Star Admin Boxed PRO** design - Features:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
@@ -188,9 +188,9 @@
 
 <br />
 
-## [Flask Dashboard Atlantis Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro) - [LIVE Demo](https://flask-dashboard-atlantis-dark-pro.appseed.us/)
+## [Flask Dashboard - Atlantis Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro)
 
-**Commercial product** - Flask **Dashboard** coded on top of **Atlantis Dark PRO** crafted by ThemeKita. **Features**:
+> Commercial Flask Admin Dashboard coded on top of **Atlantis Dark PRO** design - Features:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
@@ -206,9 +206,9 @@
 
 <br />
 
-## [Flask Dashboard Atlantis PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-pro) - [LIVE Demo](https://flask-dashboard-atlantis-pro.appseed.us/)
+## [Flask Dashboard - Atlantis PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-pro)
 
-**Commercial product** - Flask **Dashboard** coded on top of **Atlantis PRO** crafted by ThemeKita. **Features**:
+> Commercial Flask Admin Dashboard coded on top of **Atlantis PRO** design - Features:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
@@ -224,9 +224,9 @@
 
 <br />
 
-## [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) - [LIVE Demo](https://flask-dashboard-argon-pro.appseed.us/)
+## [Flask Dashboard - Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) 
 
-**Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)** coded on top of **Argon Dashboard PRO** design. **Features**:
+> Commercial Flask Admin Dashboard coded on top of **Argon PRO** design - Features:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
@@ -242,9 +242,9 @@
 
 <br />
 
-## [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) - [LIVE Demo](https://flask-dashboard-material-pro.appseed.us/)
+## [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
 
-**Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)** coded on top of **Material Dashboard PRO** design. **Features**:
+> Commercial Flask Admin Dashboard coded on top of **Argon PRO** design - Features:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
@@ -260,9 +260,9 @@
 
 <br />
 
-## [Flask Dashboard NowUI PRO](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro) - [LIVE Demo](https://flask-dashboard-nowui-pro.appseed.us/)
+## [Flask Dashboard - NowUI PRO](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)
 
-**Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)** coded on top of **NowUI Dashboard PRO** design. **Features**:
+> Commercial Flask Admin Dashboard coded on top of **NowUI PRO** design - Features:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
@@ -278,9 +278,9 @@
 
 <br />
 
-## [Flask Dashboard Paper PRO](https://appseed.us/admin-dashboards/flask-dashboard-paper-pro) - [LIVE Demo](https://flask-dashboard-paper-pro.appseed.us/)
+## [Flask Dashboard - Paper PRO](https://appseed.us/admin-dashboards/flask-dashboard-paper-pro) - [LIVE Demo](https://flask-dashboard-paper-pro.appseed.us/)
 
-**Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)** coded on top of **Paper Dashboard PRO** design. **Features**:
+> Commercial Flask Admin Dashboard coded on top of **Paper PRO** design - Features:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
@@ -296,9 +296,9 @@
 
 <br />
 
-## [Flask Dashboard Light PRO](https://appseed.us/admin-dashboards/flask-dashboard-light-pro) - [LIVE Demo](https://flask-dashboard-light-pro.appseed.us/)
+## [Flask Dashboard - Light PRO](https://appseed.us/admin-dashboards/flask-dashboard-light-pro) - [LIVE Demo](https://flask-dashboard-light-pro.appseed.us/)
 
-**Commercial [Flask Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)** coded on top of **Light Dashboard PRO** design. **Features**:
+> Commercial Flask Admin Dashboard coded on top of **Light Bootstrap PRO** design - Features:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
