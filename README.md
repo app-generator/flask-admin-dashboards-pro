@@ -25,6 +25,24 @@
 
 <br />
 
+## [Flask Dashboard - Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) 
+
+> Commercial Flask Admin Dashboard coded on top of **Black Dashboard PRO** design. **Features**:
+
+- SQLite, PostgreSQL
+- SQLAlchemy ORM, Alembic (for db schema migration)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**), Forms validation
+- **Deployment scripts**: Docker, Gunicorn / Nginx, Waitress
+- FREE updates and **24/7 Live support** via [Discord](https://discord.gg/fZC6hup)
+- [Commercial License](./LICENSE.md)
+
+<br />
+
+![Flask Dashboard Black PRO - Admin Panel coded in Flask Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-screen.png)
+
+<br />
+
 ## [Flask Dashboard - Material PRO (WrapPixel)](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro)
 
 > Commercial product - **Flask Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
@@ -97,24 +115,6 @@
 <br />
 
 ![Flask DattaAble Dark PRO - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable-pro/flask-dashboard-dattaable-pro-screen.png)
-
-<br />
-
-## [Flask Dashboard - Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) 
-
-> Commercial Flask Admin Dashboard coded on top of **Black Dashboard PRO** design. **Features**:
-
-- SQLite, PostgreSQL
-- SQLAlchemy ORM, Alembic (for db schema migration)
-- Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**), Forms validation
-- **Deployment scripts**: Docker, Gunicorn / Nginx, Waitress
-- FREE updates and **24/7 Live support** via [Discord](https://discord.gg/fZC6hup)
-- [Commercial License](./LICENSE.md)
-
-<br />
-
-![Flask Dashboard Black PRO - Admin Panel coded in Flask Framework.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-screen.png)
 
 <br />
 
